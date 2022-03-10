@@ -1,1 +1,1 @@
-# publiah
+# publish
